@@ -36,5 +36,19 @@ It also includes an admin panel to manage products and orders.
 ---
 
 ## 👩‍💻 Developed By
-**Kesar Karale**  
+Kesar Karale  
 BCA Student | Aspiring Software Developer
+
+---
+
+## 📸 Project Screenshots
+
+### 🏠 Home Page
+![Home](screenshots/home.png)
+
+### 🛒 Cart Page
+![Cart](screenshots/cart.png)
+
+### 🔐 Login Page
+![Login](screenshots/login.png)
+

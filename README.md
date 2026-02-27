@@ -44,11 +44,11 @@ BCA Student | Aspiring Software Developer
 ## 📸 Project Screenshots
 
 ### 🏠 Home Page
-![Home](screenshots/home.png)
+![Home](screenshot/home.png)
 
 ### 🛒 Cart Page
-![Cart](screenshots/cart.png)
+![Cart](screenshot/cart.png)
 
 ### 🔐 Login Page
-![Login](screenshots/login.png)
+![Login](screenshot/login.png)
 

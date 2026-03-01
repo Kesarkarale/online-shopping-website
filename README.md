@@ -39,16 +39,4 @@ It also includes an admin panel to manage products and orders.
 Kesar Karale  
 BCA Student | Aspiring Software Developer
 
----
-
-## 📸 Project Screenshots
-
-### 🏠 Home Page
-![Home](screenshot/home.png)
-
-### 🛒 Cart Page
-![Cart](screenshot/cart.png)
-
-### 🔐 Login Page
-![Login](screenshot/login.png)
 

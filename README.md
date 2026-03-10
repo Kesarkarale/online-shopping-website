@@ -36,7 +36,7 @@ It also includes an admin panel to manage products and orders.
 📸 Screenshots
 
 ### Login 
-![login](screenshots/login.png)
+![login](login.png)
 
 ### Home
 ![home](screenshots/home.png)

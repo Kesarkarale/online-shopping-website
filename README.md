@@ -39,10 +39,10 @@ It also includes an admin panel to manage products and orders.
 ![login](login.png)
 
 ### Home
-![home](screenshots/home.png)
+![home](home.png)
 
 ### Cart
-![cart](screenshots/cart.png)
+![cart](cart.png)
 
 ---
 

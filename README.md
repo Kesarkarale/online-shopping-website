@@ -38,15 +38,18 @@ It also includes an admin panel to manage products and orders.
 **📸 Screenshots**
 
 **🔐 Login**
+
 ![login](login.png)
 
 
 
 **🏡 Home**
+
 ![home](home.png)
 
 
 **🛒 Cart**
+
 ![cart](cart.png)
 
 ---

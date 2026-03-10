@@ -34,17 +34,16 @@ It also includes an admin panel to manage products and orders.
 5. Open `localhost/project-folder-name`
 
 📸 Screenshots
-🔐 Login Page
 
+### Login 
+![login](screenshots/login.png)
 
+### Home
+![home](screenshots/home.png)
 
+### Cart
+![cart](screenshots/cart.png)
 
-🏠 Home Page
-
-
-
-
-🛒 Cart Page
 ---
 
 ## 👩‍💻 Developed By

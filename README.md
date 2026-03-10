@@ -33,6 +33,18 @@ It also includes an admin panel to manage products and orders.
 4. Start Apache and MySQL
 5. Open `localhost/project-folder-name`
 
+📸 Screenshots
+🔐 Login Page
+
+
+
+
+🏠 Home Page
+
+
+
+
+🛒 Cart Page
 ---
 
 ## 👩‍💻 Developed By

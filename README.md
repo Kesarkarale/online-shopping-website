@@ -35,7 +35,7 @@ It also includes an admin panel to manage products and orders.
 
 **📸 Screenshots**
 
-**🔐 Login **
+**🔐 Login**
 ![login](login.png)
 
 
